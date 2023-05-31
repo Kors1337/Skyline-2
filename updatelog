@@ -1,0 +1,24 @@
+10.05.2023 -
+Skyline 2.0.1
+Add and Reworked Hitbox Override
+Add Extendet Bullet Teleport On Mounted
+Add and Reworked Hitscan For Bullet Teleport
+Improved Software Optimization
+New Menu
+Removed Colision Sphera
+Remove Recycler Exploit(useless)
+Autoshot no longer spams spears
+Also fixed minor bugs in esp
+Now, after updating the game, the program will work stably, but functions may crash: Sky Color, Stash Esp, Crate Esp
+Spoiler for the next update
+Config System
+New visual effects
+start of work on software for licensed rust
+-------------------------------------------
+05.05.2023
+Updated to last game version
+Add Sky Color
+Add colision Sphera
+Add Aspect Ratio
+Reworked Insta loot
+Removed hitbox override for fix
