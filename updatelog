@@ -1,3 +1,14 @@
+1.06.2023 - 
+Skyline 2.0.2
+Added configuration system
+Added "Show circle radius" manipulator.
+Added teleport bullet position display
+Added disabling rank when there is a weapon icon
+Added icon for Ice Ak
+Added back collision sphere
+Improved optimization and overall FPS
+Fixed a crash after 15-30 minutes of the game, so the cheat must be entered using the "Manual Map" method
+-------------------------------------------
 10.05.2023 -
 Skyline 2.0.1
 Add and Reworked Hitbox Override
