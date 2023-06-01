@@ -8,6 +8,7 @@ Added teleport bullet position display
 Added disabling rank when there is a weapon icon
 Added icon for Ice Ak
 Added back collision sphere
+Added Hit Marker And Damage Marker
 Improved optimization and overall FPS
 Corrected prediction
 Fixed a crash after 15-30 minutes of the game, so the cheat must be entered using the "Manual Map" method
