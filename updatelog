@@ -1,6 +1,7 @@
-1.06.2023
+3.06.2023
 ---------------------------------------
 Skyline 2.0.2
+Updated to last game version
 Added configuration system
 Added animations for all elements (indicators)
 Added "Show circle radius" manipulator.
@@ -10,7 +11,8 @@ Added icon for Ice Ak
 Added back collision sphere
 Added Hit Marker And Damage Marker
 Improved optimization and overall FPS
-Corrected prediction
+Improved prediction
+Improved Matrix Update
 Fixed a crash after 15-30 minutes of the game, so the cheat must be entered using the "Manual Map" method
 
 10.05.2023
